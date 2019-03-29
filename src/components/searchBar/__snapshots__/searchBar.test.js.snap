@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render search box 1`] = `
+<div
+  className="SearchBarUnstyled-root-1"
+>
+  <div
+    className="MuiPaper-root-4 MuiPaper-elevation1-7 MuiPaper-rounded-5 SearchBarUnstyled-paper-2"
+  >
+    <div
+      className="MuiInputBase-root-31 SearchBarUnstyled-input-3"
+      onClick={[Function]}
+    >
+      <input
+        className="MuiInputBase-input-41"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        placeholder="Search Google Maps"
+        type="text"
+        value="Some value"
+      />
+    </div>
+  </div>
+  <div
+    className="MuiPaper-root-4 MuiPaper-elevation1-7 MuiPaper-rounded-5 SuggestionsUnstyled-root-48"
+    hidden={true}
+  >
+    <ul
+      className="MuiList-root-49 MuiList-padding-50"
+    />
+  </div>
+</div>
+`;

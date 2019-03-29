@@ -1,0 +1,91 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render suggestions 1`] = `
+<div
+  className="MuiPaper-root-2 MuiPaper-elevation1-5 MuiPaper-rounded-3 SuggestionsUnstyled-root-1"
+  hidden={false}
+>
+  <ul
+    className="MuiList-root-29 MuiList-padding-30"
+  >
+    <div
+      className="MuiButtonBase-root-45 MuiListItem-root-33 MuiListItem-default-36 MuiListItem-gutters-41 MuiListItem-button-42"
+      onBlur={[Function]}
+      onClick={[Function]}
+      onContextMenu={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      role="button"
+      tabIndex="0"
+    >
+      <p
+        className="MuiTypography-root-48 MuiTypography-body1-57"
+      >
+        a
+      </p>
+      <span
+        className="MuiTouchRipple-root-84"
+      />
+    </div>
+    <div
+      className="MuiButtonBase-root-45 MuiListItem-root-33 MuiListItem-default-36 MuiListItem-gutters-41 MuiListItem-button-42"
+      onBlur={[Function]}
+      onClick={[Function]}
+      onContextMenu={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      role="button"
+      tabIndex="0"
+    >
+      <p
+        className="MuiTypography-root-48 MuiTypography-body1-57"
+      >
+        b
+      </p>
+      <span
+        className="MuiTouchRipple-root-84"
+      />
+    </div>
+    <div
+      className="MuiButtonBase-root-45 MuiListItem-root-33 MuiListItem-default-36 MuiListItem-gutters-41 MuiListItem-button-42"
+      onBlur={[Function]}
+      onClick={[Function]}
+      onContextMenu={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      role="button"
+      tabIndex="0"
+    >
+      <p
+        className="MuiTypography-root-48 MuiTypography-body1-57"
+      >
+        c
+      </p>
+      <span
+        className="MuiTouchRipple-root-84"
+      />
+    </div>
+  </ul>
+</div>
+`;
