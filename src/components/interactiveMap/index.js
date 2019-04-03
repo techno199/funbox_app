@@ -19,7 +19,7 @@ export class InteractiveMapUnstyled extends Component {
     searchBarValue: '',
     selectedLocations: [],
     predictions: [],
-    apiURLKey: process.env.REACT_APP_API_KEY,
+    apiURLKey: 'AIzaSyCmwHMMrWHwpcDeqgH5xee1LHL9URnDXHA',
     map: null,
     google: null,
     center: {
